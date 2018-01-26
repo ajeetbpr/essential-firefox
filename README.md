@@ -1,5 +1,5 @@
 # Essential Firefox
-🦊 A list of all the FireFox add-ons that I can't live without.
+🦊 A list of all the FireFox add-ons that I consider essential.
 
 ## General
 - [1Password](https://agilebits.com/onepassword/extensions) - Extension for the 1Password app, one of the best password managers for macOS.
