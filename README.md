@@ -14,7 +14,6 @@
 - [uBlock Origin](https://github.com/gorhill/uBlock) - The best content blocker available for FireFox.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) - Forces HTTPS connections whenever possible.
 - [Decentraleyes](https://github.com/Synzvato/decentraleyes#decentraleyes) - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction)).
-- [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete#cookie-autodelete) - Autodeletes unused cookies.
 - [Nano Defender](https://github.com/NanoAdblocker/NanoDefender#nano-defender) - Stops sites from trying to make you turn off your content blocker. Requires [additional installation steps](https://jspenguin2017.github.io/uBlockProtector/) if using with uBlock Origin.
 
 ## Development
