@@ -17,7 +17,7 @@
 - [Nano Defender](https://github.com/NanoAdblocker/NanoDefender#nano-defender) - Stops sites from trying to make you turn off your content blocker. Requires [additional installation steps](https://jspenguin2017.github.io/uBlockProtector/) if using with uBlock Origin.
 
 ## Development
-- [Octotree](https://github.com/buunguyen/octotree#octotree) - Adds a code tree for exploring repositories.
-- [Octolinker](https://octolinker.github.io) - Turns language-specific module-loading statements in source files into links.
+- [Octotree](https://github.com/buunguyen/octotree#octotree) - Adds a code tree for exploring GitHub repositories.
+- [Octolinker](https://octolinker.github.io) - Turns language-specific module-loading statements in GitHub source files into links.
 - [Font Finder](https://github.com/andy-portmen/font-finder) - Allows you to analyze the font information of any element on a page.
 - [React Developer Tools](https://github.com/facebook/react-devtools#react-developer-tools-) - Lets you inspect the React component hierarchy, including component props and state. Indisposable when creating React apps.
